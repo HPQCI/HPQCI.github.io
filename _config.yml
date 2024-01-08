@@ -31,9 +31,10 @@ url: "https://hpqci.github.io" # the base hostname & protocol for your site, e.g
 github_username:  hpqci
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
