@@ -29,8 +29,8 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 
 ## Contact Information
-*   davide.ferrari1@unipr.it
-*   martin.ruefenacht@par-tec.com
+*   Davide Ferrari - davide.ferrari1@unipr.it
+*   Martin Ruefenacht - martin.ruefenacht@par-tec.com
 
 
 ### Header 3
