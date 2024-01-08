@@ -2,23 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# First International Workshop on High Performance and Quantum Computing Integration (2024)
 
-[Link to another page](./another-page.html).
+_Held in conjunction with the [33rd International Symposium on High-Performance Parallel and Distributed Computing](https://www.hpdc.org/2024/)_
 
-There should be whitespace between paragraphs.
+High-performance computing (HPC) has witnessed significant milestones in its evolution, each wave of innovation breaking performance barriers and leading to groundbreaking scientific discoveries. As Quantum Computing (QC) matures, the question is no longer just about its theoretical capabilities, but also its applicability in real-world computing environments. Consequently, the HPC community is now turning its attention to the potential of QC as the next frontier in advancing the field.
+However, for QC to realize its potential, it must be seamlessly integrated into the realm of high-performance computing. The integration of QC into HPC centers has become a topic of increasing interest and urgency. This workshop will focus on the actions needed to achieve this integration when addressing various layers, including programming models, environmental and infrastructure requirements, integrated scheduling environments, and operating system extensions. The degree of such integration into the various layers, whether it is very loose, where jobs are dispatched to remote schedulers in the cloud, or very, with direct physical connection to the control unit, will define the effort required by the interested actors.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Program
 
-# Header 1
+*   Opening (5 minutes)
+*   Keynote (40 minutes)
+*   Talk 1 (20 minutes)
+*   Talk 2 (20 minutes)
+*   Break (15 minutes)
+*   Talk 3 (20 minutes)
+*   Talk 4 (20 minutes)
+*   Panel discussion (40 minutes)
+*   Ending Remarks
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Program Committee
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   _Davide Ferrari, PhD_ - University of Parma
+*   _Martin Ruefenacht, PhD_ - Partec
+
+
+## Contact Information
+*   davide.ferrari1@unipr.it
+*   martin.ruefenacht@par-tec.com
+
 
 ### Header 3
 
