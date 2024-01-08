@@ -31,7 +31,8 @@ url: "https://hpqci.github.io" # the base hostname & protocol for your site, e.g
 github_username:  hpqci
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
