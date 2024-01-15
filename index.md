@@ -11,14 +11,14 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 ## Program
 
-*   Opening (5 minutes)
-*   Keynote (40 minutes)
-*   Talk 1 (20 minutes)
-*   Talk 2 (20 minutes)
-*   Break (15 minutes)
-*   Talk 3 (20 minutes)
-*   Talk 4 (20 minutes)
-*   Panel discussion (40 minutes)
+*   Opening
+*   Keynote: Speaker TBA
+*   Talk 1: Speaker TBA
+*   Talk 2: Speaker TBA
+*   Break
+*   Talk 3: Speaker TBA
+*   Talk 4: Speaker TBA
+*   Panel discussion
 *   Ending Remarks
 
 
