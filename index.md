@@ -13,13 +13,42 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 *   Opening
 *   Keynote: Speaker TBA
-*   Talk 1: Speaker TBA
-*   Talk 2: Speaker TBA
+*   Invited Talk 1: Speaker TBA
+*   Talks: Speaker TBA
 *   Break
-*   Talk 3: Speaker TBA
-*   Talk 4: Speaker TBA
+*   Invited Talk 2: Speaker TBA
+*   Talks: Speaker TBA
 *   Panel discussion
 *   Ending Remarks
+
+
+## Call for Papers
+
+The integration of QC into HPC centers has become a topic of increasing interest and urgency. This workshop will focus on the actions needed to achieve this integration when addressing various layers, including:
+
+*	programming models
+*	environmental and infrastructure requirements
+*	integrated scheduling environments
+*	operating system extensions
+
+Papers that are accepted will be included in the **Conference Proceedings available in the ACM Digital Library**. All submitted papers should represent original work that has not been previously published or is currently under consideration for any other conference or journal. papers uploaded to the arXiv are eligible, as arXiv doos not provide peer reviewe and so does not count as a prior pubblication. Reviewing process will conducted in a single-blind manner.
+
+The proceedings for HPQCI will be published by ACM in the HPDC proceedings companion boook. Authors are required to be ready to sign a copyright transfer statement. Additionally, for each accepted paper or demo, at least one author must register for the workshop by the early registration date (TBD), actively participate, and present the work.
+
+**Important Dates**
+*	Submission deadline: 22nd March
+*	Notification: 11th April
+*	Camera ready version: 18th April
+
+### Authors Guidelines
+
+Authors are invited to submit papers of the following types and lengths, in the ACM sigconf format style:
+
+*	Regular papers (maximum 10 pages, references excluded), 10 minute talks including questions
+*	Short papers (maximum 4 pages, excluded references), 5 minute talks including questions
+
+Submissions will be received via HotCRP:
+
 
 
 ## Program Committee
