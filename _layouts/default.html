@@ -19,21 +19,24 @@
         font-family: "Lato", sans-serif;
       }
 
-      .sidebar {
-        margin: 0;
-        padding: 0;
-        width: 200px;
-        background-color: #3c9196;
-        position: fixed;
+      .sidenav {
         height: 100%;
-        overflow: auto;
+        width: 200px;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: #3c9196;
+        overflow-x: hidden;
+        padding-top: 20px;
       }
 
-      .sidebar a {
-        display: block;
-        color: white;
-        padding: 16px;
+      .sidenav a {
+        padding: 6px 8px 6px 16px;
         text-decoration: none;
+        font-size: 20px;
+        color: white;
+        display: block;
       }
        
       .sidebar a.active {
@@ -41,38 +44,26 @@
         color: white;
       }
 
-      .sidebar a:hover:not(.active) {
-        background-color: #555;
+      .sidenav a:hover {
+        background-color: #145a96;
         color: white;
       }
 
-      div.content {
-        margin-left: 200px;
-        padding: 1px 16px;
-        height: 1000px;
+
+      .content {
+        margin-left: 160px; /* Same as the width of the sidenav */
+        font-size: 28px; /* Increased text to enable scrolling */
+        padding: 0px 10px;
       }
 
-      @media screen and (max-width: 700px) {
-        .sidebar {
-          width: 100%;
-          height: auto;
-          position: relative;
-        }
-        .sidebar a {float: left;}
-        div.content {margin-left: 0;}
-      }
-
-      @media screen and (max-width: 400px) {
-        .sidebar a {
-          text-align: center;
-          float: none;
-        }
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
       }
     </style>
 
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: page.title | default: site.github.repository_name }}</h1>
@@ -86,9 +77,10 @@
       {% endif %}
     </header>
 
-    <div class="sidebar">
-      <a href="./">Home</a>
-      <a href="another-page.html">Call for Papers</a>
+
+    <div class="sidenav">
+      <a href="./"><b>Home</b></a>
+      <a href="cfp.html"><b>Call for Papers</b></a>
     </div>
 
     <main id="content" class="main-content" role="main">
