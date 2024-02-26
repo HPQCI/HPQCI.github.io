@@ -24,12 +24,19 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 ## Call for Papers
 
-The integration of QC into HPC centers has become a topic of increasing interest and urgency. This workshop will focus on the actions needed to achieve this integration when addressing various layers, including:
+The integration of QC into HPC centers has become a topic of increasing interest and urgency. This workshop will focus on the actions needed to achieve this integration when addressing various layers.
 
-*	programming models
-*	environmental and infrastructure requirements
-*	integrated scheduling environments
-*	operating system extensions
+**Topics of Interests**:
+
+*	Programming models for HPC-Quantum integration
+*	Environmental and infrastructure considerations
+*	Integrated scheduling environments
+*	Operating system extensions for seamless integration
+*	Case studies and real-world applications
+*	Quantum software stacks and toolkits
+*	Benchmarking and performance evaluation of HPC-Quantum systems
+*	Scalability challenges in HPC-Quantum systems
+*	Quantum-accelerated HPC
 
 Papers that are accepted will be included in the **Conference Proceedings available in the ACM Digital Library**. All submitted papers should represent original work that has not been previously published or is currently under consideration for any other conference or journal. papers uploaded to the arXiv are eligible, as arXiv doos not provide peer reviewe and so does not count as a prior pubblication. Reviewing process will conducted in a single-blind manner.
 
@@ -44,8 +51,8 @@ The proceedings for HPQCI will be published by ACM in the HPDC proceedings compa
 
 Authors are invited to submit papers of the following types and lengths, in the ACM sigconf format style:
 
-*	Regular papers (maximum 10 pages, references excluded), 10 minute talks including questions
-*	Short papers (maximum 4 pages, excluded references), 5 minute talks including questions
+*	Regular papers (maximum 10 pages, references excluded), 10 minutes talks including questions
+*	Short papers (maximum 4 pages, excluded references), 5 minutes talks including questions
 
 Submissions will be received via HotCRP:
 
