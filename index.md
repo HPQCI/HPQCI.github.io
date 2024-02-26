@@ -26,7 +26,7 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 The integration of QC into HPC centers has become a topic of increasing interest and urgency. This workshop will focus on the actions needed to achieve this integration when addressing various layers.
 
-**Topics of Interests**:
+**Topics of Interest**:
 
 *	Programming models for HPC-Quantum integration
 *	Environmental and infrastructure considerations
