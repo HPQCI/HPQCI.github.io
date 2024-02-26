@@ -38,4 +38,4 @@ Authors are invited to submit papers of the following types and lengths, in the 
 Submissions will be received via HotCRP:
 
 
-[back](./)
+[back to home](./)
