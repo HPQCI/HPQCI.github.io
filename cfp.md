@@ -31,8 +31,8 @@ The proceedings for HPQCI will be published by ACM in the HPDC proceedings compa
 
 Authors are invited to submit papers of the following types and lengths, in the ACM sigconf format style:
 
-*	Regular papers (maximum 10 pages, references excluded), 10 minutes talks including questions
-*	Short papers (maximum 4 pages, excluded references), 5 minutes talks including questions
+*	Regular papers (maximum 8 pages, references excluded), 10 minutes talks including questions
+*	Short papers (maximum 5 pages, excluded references), 5 minutes talks including questions
 
 Submissions will be received via HotCRP:
 
