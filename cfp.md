@@ -34,7 +34,7 @@ Authors are invited to submit papers of the following types and lengths, in the 
 *	Regular papers (maximum 8 pages, references excluded), 10 minutes talks including questions
 *	Short papers (maximum 5 pages, excluded references), 5 minutes talks including questions
 
-Submissions will be received via HotCRP:
+Submissions will be received only through HotCRP:
 
 
 [Back to Home](./)
