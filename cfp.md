@@ -20,8 +20,6 @@ The integration of QC into HPC centers has become a topic of increasing interest
 
 Accepted papers will be presented at the workshop and published by ACM in the workshop proceedings. All submitted papers should represent original work that has not been previously published or is currently under consideration for any other conference or journal. Papers uploaded to the arXiv are eligible, as arXiv doos not provide peer reviewe and so does not count as a prior pubblication. Reviewing process will conducted in a single-blind manner.
 
-Authors are required to use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, for each accepted paper, at least one author must register for the workshop by the early registration date (TBD), actively participate, and present the work.
-
 **Important Dates**
 *	Submission deadline: 22nd March
 *	Notification: 11th April
@@ -29,10 +27,12 @@ Authors are required to use the sigconf LaTeX template provided by the Associati
 
 ## Authors Guidelines
 
-Authors are invited to submit papers of the following types and lengths, in the ACM sigconf format style:
+Authors are invited to submit papers of the following types and lengths:
 
 *	Regular papers (maximum 8 pages, references excluded), 10 minutes talks including questions
 *	Short papers (maximum 5 pages, excluded references), 5 minutes talks including questions
+
+Authors are required to use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, for each accepted paper, at least one author must register for the workshop by the early registration date (TBD), actively participate, and present the work.
 
 Submissions will be received only through HotCRP:
 
