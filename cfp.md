@@ -34,7 +34,7 @@ Authors are invited to submit papers of the following types and lengths:
 
 Authors are required to use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, for each accepted paper, at least one author must register for the workshop by the early registration date (TBD), actively participate, and present the work.
 
-Submissions will be received only through HotCRP:
+Submissions will be received only through HotCRP: [hpqci24.hotcrp.com/](https://hpqci24.hotcrp.com/)
 
 
 [Back to Home](./)
