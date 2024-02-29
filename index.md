@@ -23,8 +23,14 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 ## Program Committee
 
-*   _Davide Ferrari, PhD_ - University of Parma
-*   _Martin Ruefenacht, PhD_ - Partec
+<p style="display:inline-block;">
+  <img src="davide.png" style="float: left" width="200">
+  <i><b>Davide Ferrari</b>, PhD (University of Parma)</i>, received the PhD in Information Technologies from the University of Parma, Italy, in 2023. During his doctoral studies, he worked on quantum compiling, quantum optimization, and distributed quantum computing. He is currently a Research Fellow with the Department of Engineering and Architecture, University of Parma. He is involved in the Quantum Information Science research initiative with the University of Parma. His research interests include quantum optimization applications, efficient quantum compiling for local and distributed quantum computing and quantum internet applications.
+</p>
+<p style="display:inline-block;">
+	<img src="martin.png" style="float: left" width="200">
+	<i><b>Martin Ruefenacht</b>, PhD (Partec)</i>, received his PhD in Computer Science from the University of Edinburgh in 2021. During his doctoral studies he worked on collective operations for the Message Passing Interface. Since 2021 he has been at the Leibniz Supercomputing Centre working on the integration of quantum computing and high-performance computing. He represents LRZ on the MPI Forum. His research interests are related to the application and system level software to enable quantum computing in the HPC space and traditional high-performance computing system software.
+</p>
 
 
 ## Contact Information
