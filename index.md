@@ -25,7 +25,7 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 <p style="display:inline-block;">
   <img src="davide.png" style="float: left" width="200">
-  <i><b>Davide Ferrari</b>, PhD (University of Parma)</i>, received the PhD in Information Technologies from the University of Parma, Italy, in 2023. During his doctoral studies, he worked on quantum compiling, quantum optimization, and distributed quantum computing. He is currently a Research Fellow with the Department of Engineering and Architecture, University of Parma. He is involved in the Quantum Information Science research initiative with the University of Parma. His research interests include quantum optimization applications, efficient quantum compiling for local and distributed quantum computing and quantum internet applications.
+  <i><b>Davide Ferrari</b>, PhD (University of Parma)</i>, received the PhD in Information Technologies from the University of Parma, Italy, in 2023. During his doctoral studies, he worked on quantum compiling, quantum optimization, and distributed quantum computing. He is a Research Fellow with the Department of Engineering and Architecture, University of Parma. He is involved in the Quantum Information Science research initiative with the University of Parma. His research interests include quantum optimization applications, efficient quantum compiling for local and distributed quantum computing and quantum internet applications.
 </p>
 <p style="display:inline-block;">
 	<img src="martin.png" style="float: left" width="200">
