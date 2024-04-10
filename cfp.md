@@ -22,8 +22,8 @@ Accepted papers will be presented at the workshop and published by ACM in the wo
 
 **Important Dates**
 *	Submission deadline: ~~(22nd March) 2nd April AoE~~ <font color="red">Submissions Closed</font>
-*	Notification: 11th April AoE
-*	Camera ready version: 18th April AoE
+*	Notification: 10th April AoE
+*	Camera ready version: 17th April AoE
 
 ## Authors Guidelines
 
