@@ -13,11 +13,11 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 *   Opening
 *   Keynote: Speaker TBA
-*   Invited Talk 1: Speaker TBA
-*   Talks: Speaker TBA
+*   Talk 1: Speaker TBA
+*   Talks 2: Speaker TBA
 *   Break
+*   Invited Talk 1: Speaker TBA
 *   Invited Talk 2: Speaker TBA
-*   Talks: Speaker TBA
 *   Panel discussion
 *   Ending Remarks
 
