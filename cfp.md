@@ -24,6 +24,7 @@ Accepted papers will be presented at the workshop and published by ACM in the wo
 *	Submission deadline: ~~(22nd March) 2nd April AoE~~ <font color="red">Submissions Closed</font>
 *	Notification: ~~10th April AoE~~ <font color="red">Decisions Sent</font>
 *	Camera ready version: ~~(17th April AoE)~~<font color="red">21st April AoE</font>
+*	Early registration deadline: 3rd May AoE
 
 ## Authors Guidelines
 
@@ -32,9 +33,11 @@ Authors are invited to submit papers of the following types and lengths:
 *	Regular papers (maximum 8 pages, references excluded), 10 minutes talks including questions
 *	Short papers (5 pages, references excluded), 5 minutes talks including questions
 
-Authors must use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, for each accepted paper, at least one author must register for the workshop by the early registration date (TBD), actively participate, and present the work.
+Authors must use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, for each accepted paper, at least one author must register for the workshop by the early [registration date](https://www.hpdc.org/2024/registration.html) (3rd May AoE), actively participate, and present the work.
 
 Submissions will be received only through HotCRP: [hpqci24.hotcrp.com/](https://hpqci24.hotcrp.com/)
+
+Registration site: [https://www.hpdc.org/2024/registration.html](https://www.hpdc.org/2024/registration.html)
 
 
 [Back to Home](./)
