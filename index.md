@@ -12,10 +12,10 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 ## Program
 
 *   Opening
-*   Keynote: Speaker TBA
-*   Submitted Papers Session: Speakers TBA
+*   Keynote: Paolo Viviani ()
+*   Submitted Papers Session
 *   Break
-*   Invited Talk 1: Speaker TBA
+*   Invited Talk 1: Stefan Kister (ParTec)
 *   Invited Talk 2: Speaker TBA
 *   Panel discussion
 *   Ending Remarks
