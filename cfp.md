@@ -24,7 +24,7 @@ Accepted papers will be presented at the workshop and published by ACM in the wo
 *	Submission deadline: ~~(March 22nd, 2024 AoE) April 2nd, 2024 AoE~~ <font color="red">Submissions Closed</font>
 *	Notification: ~~April 10th, 2024 AoE~~ <font color="red">Decisions Sent</font>
 *	Camera ready version: ~~(April 17th, 2024 AoE)~~ <font color="red">April 21st, 2024 AoE</font>
-*	Registration deadline: May 10th, 2024 AoE
+*	Registration deadline: ~~(May 10th, 2024 AoE)~~ <font color="red">May 27th, 2024 AoE</font>
 
 ## Authors Guidelines
 
