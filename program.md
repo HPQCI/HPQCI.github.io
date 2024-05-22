@@ -38,7 +38,7 @@ title: Workshop Program
 		  <b>3:30 PM - Invited Speaker: Stefan Krister <i>(ParTec)</i></b>
 		</p>
 		<p>
-		  <i>Talk TBA</i>
+		  <i>Component-based Quantum-integrated Supercomputing</i>
 		</p>
 	</li>
 	<li><b>4:00 PM - Break</b></li>
@@ -49,7 +49,6 @@ title: Workshop Program
 		<p>
 		  <b>Moving Beyond QPU as an Accelerator: Embracing Non-Von Neumann and Physics-Based Approaches in Quantum Programming Models</b>
 		</p>
-		<p><i>The design of quantum programming models has traditionally been grounded in the conceptual framework of quantum circuits and gates introduced by David Deutsch in the early 1980s. This framework typically envisions the Quantum Processing Unit (QPU) as an accelerator within a host-device configuration, where the host system offloads the program to the QPU for execution. However, quantum computers predominantly consist of classical systems that stimulate and measure quantum systems as black boxes, diverging significantly from the circuit-offloading model. This abstraction is misaligned with the hardware's operational reality, hindering optimized implementations and limiting the scope of operations. In contrast, concepts from non-Von Neumann architectures—such as neuromorphic hardware and dataflow systems—utilize abstractions like stimuli, channels, and schedules, which better align with the nature of quantum computing systems and the physical processes they embody. As David Deutsch originally conceptualized, computing is fundamentally a physical process. Thus, advancing quantum programming models should incorporate this perspective to achieve greater accuracy and physical fidelity. By adopting physics-based programming models, we can develop approaches to quantum computing that more accurately reflect the interactions between classical hardware and quantum systems.</i></p>
 	</li>
 	<li><b>5:00 PM - Panel Discussion</b></li>
 	<li><b>6:00 PM - Ending Remarks</b></li>

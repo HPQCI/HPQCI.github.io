@@ -11,14 +11,14 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 ## Program
 
-*   Opening
-*   Keynote: Paolo Viviani (LINKS Foundation)
-*   Submitted Papers Session
-*   Break
-*   Invited Speaker: Stefan Kister (ParTec)
-*   Invited Speaker: Stefano Markidis (KTH Royal Institute of Technology)
-*   Panel discussion
-*   Ending Remarks
+*   2:00 PM - Opening
+*   2:05 PM - Keynote: Paolo Viviani (LINKS Foundation)
+*   3:00 PM - Submitted Papers
+*   3:30 PM - Invited Speaker: Stefan Kister (ParTec)
+*   4:00 PM - Break
+*   4:30 PM - Invited Speaker: Stefano Markidis (KTH Royal Institute of Technology)
+*   5:00 PM - Panel discussion
+*   6:00 PM - Ending Remarks
 
 ## Program Committee
 
