@@ -30,7 +30,7 @@ Accepted papers will be presented at the workshop and published by ACM in the wo
 
 Authors are invited to submit papers of the following types and lengths:
 
-*	Regular papers (maximum 8 pages, references excluded), 10 minutes talks including questions
+*	Regular papers (maximum 8 pages), 15 minutes talks including questions
 *	Short papers (5 pages, references excluded), 5 minutes talks including questions
 
 Authors must use the sigconf LaTeX template provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, **for each accepted paper, at least one author must [register](https://www.hpdc.org/2024/registration.html)** for the workshop by the early registration date (May 10th, 2024 AoE), actively participate, and present the work.
