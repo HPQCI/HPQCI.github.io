@@ -4,7 +4,7 @@ title: Workshop Program
 ---
 
 # Workshop Program
-<ul>
+<l>
 	<li>
 		<p style="display:inline-block;">
 		  <b>2:00 PM - Opening</b>
@@ -40,6 +40,7 @@ title: Workshop Program
 		<p>
 		  <i>Component-based Quantum-integrated Supercomputing</i>
 		</p>
+	  <p><i>Quantum computing is naturally the next step in accelerating HPC. We at ParTec AG will approach this topic in two ways: First, a hardware approach with a component-based HPC-integrated quantum computer, which is complemented by an HPC-supported emulation workbench / digital twin. Second, an API layer that bridges the gap between HPC and QC workload scheduling. This API is a joint development with ParTec and Quantum Machines in the first step and was recently announced at the ISC2024 as QBridge. In my talk, I would like to give a brief overview of the first part of ParTec's quantum computing approach, followed by a deeper dive into the QBridge API.</i></p>
 	</li>
 	<li><b>4:00 PM - Break</b></li>
 	<li>
