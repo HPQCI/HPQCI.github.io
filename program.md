@@ -4,7 +4,7 @@ title: Workshop Program
 ---
 
 # Workshop Program
-<l>
+<ul>
 	<li>
 		<p style="display:inline-block;">
 		  <b>2:00 PM - Opening</b>
