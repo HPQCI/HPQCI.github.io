@@ -3,8 +3,8 @@ description: International Workshop on High Performance and Quantum Computing In
 header: First International Workshop on High Performance and Quantum Computing Integration (2024)
 where: University of Pisa, Sala Riunioni Ovest, Pisa, Italy
 when: June 3, 2024
-show_downloads: false
-download_url: 
+show_downloads: true
+download_url: https://github.com/HPQCI/HPQCI.github.io/raw/main/downloads/HPQCI.zip
 google_analytics:
 news: 
 theme: jekyll-theme-cayman
