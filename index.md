@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# First International Workshop on High Performance and Quantum Computing Integration (2024)
+# Second International Workshop on High Performance and Quantum Computing Integration (2024)
 
 _Held in conjunction with the [23rd International Conference on Computing Frontiers](https://www.computingfrontiers.org/2026/index.html)_
 
