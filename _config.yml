@@ -1,9 +1,9 @@
 title: HPQCI
-description: International Workshop on High Performance and Quantum Computing Integration (HPQCI) @ HDPC2024.
-header: First International Workshop on High Performance and Quantum Computing Integration (2024)
-where: University of Pisa, Sala Riunioni Ovest, Pisa, Italy
-when: June 3, 2024
-show_downloads: true
+description: International Workshop on High Performance and Quantum Computing Integration (HPQCI) @ CF2026.
+header: Second International Workshop on High Performance and Quantum Computing Integration (2026)
+where: Catania, Sicily, Italy
+when: May 19-21, 2026
+show_downloads: false
 download_url: https://github.com/HPQCI/HPQCI.github.io/raw/main/downloads/HPQCI.zip
 google_analytics:
 news: 
