@@ -34,6 +34,6 @@ Authors are invited to submit papers of the following types and lengths:
 
 Authors must use the double-column [ACM conference](https://www.acm.org/publications/article-templates/proceedings-template.html) format provided by the Association for Computing Machinery (ACM) for manuscript preparation. Additionally, **for each accepted paper, at least one author must [register](https://www.computingfrontiers.org/2026/)** for the workshop by the early registration date TBD, actively participate, and present the work.
 
-Submissions will be received only through EasyChair: TBA
+Submissions will be received only through [EasyChair](https://easychair.org/cfp/HPQCI26).
 
 [Back to Home](./)
