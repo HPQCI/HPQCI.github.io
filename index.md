@@ -19,10 +19,10 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 </p>
 <p style="display:inline-block;">
 	<img src="martin.png" style="float: left" width="200">
-	<i><b>Martin Ruefenacht</b>, PhD (Qambria)</i>, received his PhD in Computer Science from the University of Edinburgh in 2021. During his doctoral studies he worked on collective operations for the Message Passing Interface. He has worked at the Leibniz Supercomputing Centre working on the integration of quantum computing and high-performance computing. And has since moved into private industry, now at Qambria working as Head of Software. His research interests are related to the application and system level software to enable quantum computing in the HPC space and traditional high-performance computing system software.
+	<i><b>Martin Ruefenacht</b>, PhD</i>, received his PhD in Computer Science from the University of Edinburgh in 2021. During his doctoral studies he worked on collective operations for the Message Passing Interface. He has worked at the Leibniz Supercomputing Centre working on the integration of quantum computing and high-performance computing. He then moved into private industry and worked at Qambria as Head of Software. His research interests are related to the application and system level software to enable quantum computing in the HPC space and traditional high-performance computing system software.
 </p>
 
 
 ## Contact Information
 *   Davide Ferrari - davide.ferrari1@unipr.it
-*   Martin Ruefenacht - martin@qambria.com
+*   Martin Ruefenacht - m.a.ruefenacht@gmail.com
