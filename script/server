@@ -1,3 +1,9 @@
 #!/bin/sh
 
+export PAGES_REPO_NWO="${PAGES_REPO_NWO:-HPQCI/HPQCI.github.io}"
+
+if [ -n "${GITHUB_TOKEN:-}" ] && [ -z "${JEKYLL_GITHUB_TOKEN:-}" ]; then
+	export JEKYLL_GITHUB_TOKEN="$GITHUB_TOKEN"
+fi
+
 bundle exec jekyll serve

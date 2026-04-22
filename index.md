@@ -11,6 +11,11 @@ However, for QC to realize its potential, it must be seamlessly integrated into 
 
 ## Program
 
+*   08:40  Opening
+*   08:45 - 09:15  Keynote by Luigi Iapichino (LRZ)
+*   09:15 - 09:55  Submitted Papers
+*   09:55  Ending Remarks
+
 ## Program Committee
 
 <p style="display:inline-block;">

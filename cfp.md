@@ -21,8 +21,8 @@ The integration of QC into HPC centers has become a topic of increasing interest
 Accepted papers will be presented at the workshop and published by ACM in the workshop proceedings. All submitted papers should represent original work that has not been previously published or is currently under consideration for any other conference or journal. Papers uploaded to the arXiv are eligible, as arXiv does not provide peer review and does not count as a prior publication. The reviewing process will conducted in a double-blind manner.
 
 **Important Dates**
-*	Submission deadline: ~~27.02.2026~~ 09.03.2026 <font color="red">Extended</font>
-*	Notification: ~~20.03.2026~~ 23.03.2026 <font color="red">Extended</font>
+*	Submission deadline: ~~27.02.2026~~ 09.03.2026 <font color="red">Closed</font>
+*	Notification: ~~20.03.2026~~ 23.03.2026 <font color="red">Decisions sent</font>
 *	Camera ready version: ~~27.03.2026~~ 06.04.2026 <font color="red">Extended</font>
 
 ## Authors Guidelines

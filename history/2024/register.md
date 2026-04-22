@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: past
 title: Registration
+edition_path: /history/2024
 ---
 
 # Regitsration

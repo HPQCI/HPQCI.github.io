@@ -90,9 +90,11 @@
     <span style="font-size:45px;cursor:pointer;position: fixed;z-index: 1;top: 0;left: 0;overflow-x: hidden;padding-top: 0px;padding-left: 5px;color:black" onclick="openNav();">&#9776;</span>
     <div id="mySidenav" class="sidenav">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-      <a href="./"><b>Home</b></a>
-      <a href="cfp.html"><b>Call for Papers</b></a>
-      <a href="program.html"><b>Detailed Program</b></a>
+      <a href="{{ '/' | relative_url }}"><b>Home</b></a>
+      <a href="{{ '/cfp.html' | relative_url }}"><b>Call for Papers</b></a>
+      <a href="{{ '/program.html' | relative_url }}"><b>Detailed Program</b></a>
+      <a href="{{ '/register.html' | relative_url }}"><b>Registration</b></a>
+      <a href="{{ '/history/' | relative_url }}"><b>Past Editions</b></a>
     </div>
 
     <script>
