@@ -1,6 +1,6 @@
 ---
 layout: past
-edition_path: /history/2024
+edition: "2024"
 ---
 
 # First International Workshop on High Performance and Quantum Computing Integration (2024)

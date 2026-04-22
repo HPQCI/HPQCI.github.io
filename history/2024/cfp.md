@@ -1,7 +1,7 @@
 ---
 layout: past
 title: Call for Papers
-edition_path: /history/2024
+edition: "2024"
 ---
 
 # Call for Papers

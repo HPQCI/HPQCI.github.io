@@ -1,7 +1,7 @@
 ---
 layout: past
 title: Registration
-edition_path: /history/2024
+edition: "2024"
 ---
 
 # Regitsration

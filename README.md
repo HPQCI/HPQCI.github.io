@@ -26,13 +26,28 @@ script/server
 
 Use `layout: past` for pages under `history/`.
 
-For pages that belong to a specific archived edition, also set `edition_path` so the archive menu can link back to that edition's home, CFP, program, and registration pages.
+For pages that belong to a specific archived edition, set `edition: "<year>"` in the front matter. The layout will look up metadata from `_data/editions.yml` automatically.
 
-Example:
+Example front matter:
 
 ```yaml
 ---
 layout: past
-edition_path: /history/2024
+edition: "2024"
 ---
 ```
+
+### Adding a new past edition
+
+Add an entry to `_data/editions.yml`:
+
+```yaml
+"2024":
+  path: /history/2024          # base URL for the edition's pages
+  where: "Venue, City, Country"
+  when: "Month DD, YYYY"
+  title: "HPQCIXX"             # overrides the site title in the page header
+  description: "..."           # overrides the site description tagline
+```
+
+All fields except `path` are optional. `title` and `description` override the banner text shown on past-edition pages; if omitted, the current site values are used as fallback.

@@ -1,7 +1,7 @@
 ---
 layout: past
 title: Workshop Program
-edition_path: /history/2024
+edition: "2024"
 ---
 
 # Workshop Program
