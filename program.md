@@ -18,7 +18,7 @@ title: Workshop Program
 	</li>
 	<li>
 		<p>
-		  <b>09:15 - 09:35  Compiling Linear Algebra Workloads from C to Quantum Circuits via Multi Level Intermediate Representation</b></p>
+		  <b>09:15 - 09:35  Compiling Linear Algebra Workloads from C to Quantum Circuits via Multi Level Intermediate Representation</b> (<a href="https://github.com/HPQCI/HPQCI.github.io/raw/main/downloads/2026-05-19-GL-Catania-HPQCI.pptx">PPTX</a>)</p>
 		  <p><i>(S. Pio Conte, S. Cosenza, G. Lancellotti, and G. Agosta)</i></p>
 	</li>
 	<li>
